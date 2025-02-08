@@ -1,0 +1,16 @@
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Hauts Variety Traits\Mods\VanillaPsycastsExpanded\Source\Hauts_VPE\Hauts_VPE\obj\Debug\Hauts_VPE.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Hauts Variety Traits\Mods\VanillaPsycastsExpanded\Assemblies\Hauts_VPE.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Hauts Variety Traits\Mods\VanillaPsycastsExpanded\Source\Hauts_VPE\Hauts_VPE\obj\Debug\Hauts_VPE.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Hauts Variety Traits\1.4\Mods\Assemblies\Hauts_VPE.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Hauts Variety Traits\1.4\Mods\VanillaPsycastsExpanded\Source\Hauts_VPE\obj\Debug\Hauts_VPE.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Hauts Variety Traits\1.4\Mods\VanillaPsycastsExpanded\Source\Hauts_VPE\obj\Debug\Hauts_VPE.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Hauts Variety Traits\1.4\Mods\VanillaPsycastsExpanded\Assemblies\Hauts_VPE.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Hauts Variety Traits\1.4\Mods\VanillaPsycastsExpanded\Source\Hauts_VPE\obj\Debug\Hauts_VPE.csproj.CopyComplete
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Hauts Added Traits\1.4\Mods\VanillaPsycastsExpanded\Assemblies\Hauts_VPE.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Hauts Added Traits\1.4\Mods\VanillaPsycastsExpanded\Source\Hauts_VPE\obj\Debug\Hauts_VPE.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Hauts Added Traits\1.4\Mods\VanillaPsycastsExpanded\Source\Hauts_VPE\obj\Debug\Hauts_VPE.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Hauts Added Traits\1.4\Mods\VanillaPsycastsExpanded\Source\Hauts_VPE\obj\Debug\Hauts_VPE.csproj.AssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Hauts Added Traits\1.5\Mods\VanillaPsycastsExpanded\Assemblies\Hauts_VPE.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Hauts Added Traits\1.5\Mods\VanillaPsycastsExpanded\Source\Hauts_VPE\obj\Debug\Hauts_VPE.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Hauts Added Traits\1.5\Mods\VanillaPsycastsExpanded\Source\Hauts_VPE\obj\Debug\Hauts_VPE.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Hauts Added Traits\1.5\Mods\VanillaPsycastsExpanded\Source\Hauts_VPE\obj\Debug\Hauts_VPE.csproj.AssemblyReference.cache

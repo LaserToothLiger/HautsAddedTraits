@@ -1,0 +1,12 @@
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Hauts Variety Traits\1.4\Mods\Royalty\Assemblies\HautsTraitsRoyalty.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Hauts Variety Traits\1.4\Mods\Royalty\Source\HautsTraitsRoyalty\obj\Debug\HautsTraitsRoyalty.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Hauts Variety Traits\1.4\Mods\Royalty\Source\HautsTraitsRoyalty\obj\Debug\HautsTraitsRoyalty.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Hauts Variety Traits\1.4\Mods\Royalty\Source\HautsTraitsRoyalty\obj\Debug\HautsTraitsRoyalty.csproj.AssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Hauts Added Traits\1.4\Mods\Royalty\Assemblies\HautsTraitsRoyalty.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Hauts Added Traits\1.4\Mods\Royalty\Source\HautsTraitsRoyalty\obj\Debug\HautsTraitsRoyalty.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Hauts Added Traits\1.4\Mods\Royalty\Source\HautsTraitsRoyalty\obj\Debug\HautsTraitsRoyalty.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Hauts Added Traits\1.4\Mods\Royalty\Source\HautsTraitsRoyalty\obj\Debug\HautsTraitsRoyalty.csproj.AssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Hauts Added Traits\1.5\Mods\Royalty\Assemblies\HautsTraitsRoyalty.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Hauts Added Traits\1.5\Mods\Royalty\Source\HautsTraitsRoyalty\obj\Debug\HautsTraitsRoyalty.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Hauts Added Traits\1.5\Mods\Royalty\Source\HautsTraitsRoyalty\obj\Debug\HautsTraitsRoyalty.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Hauts Added Traits\1.5\Mods\Royalty\Source\HautsTraitsRoyalty\obj\Debug\HautsTraitsRoyalty.csproj.AssemblyReference.cache

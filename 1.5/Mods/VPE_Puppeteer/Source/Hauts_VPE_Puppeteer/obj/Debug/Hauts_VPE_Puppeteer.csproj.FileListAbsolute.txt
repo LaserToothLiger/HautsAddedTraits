@@ -1,0 +1,12 @@
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Hauts Variety Traits\1.4\Mods\VPE_Puppeteer\Assemblies\Hauts_VPE_Puppeteer.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Hauts Variety Traits\1.4\Mods\VPE_Puppeteer\Source\Hauts_VPE_Puppeteer\obj\Debug\Hauts_VPE_Puppeteer.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Hauts Variety Traits\1.4\Mods\VPE_Puppeteer\Source\Hauts_VPE_Puppeteer\obj\Debug\Hauts_VPE_Puppeteer.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Hauts Variety Traits\1.4\Mods\VPE_Puppeteer\Source\Hauts_VPE_Puppeteer\obj\Debug\Hauts_VPE_Puppeteer.csproj.AssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Hauts Added Traits\1.4\Mods\VPE_Puppeteer\Assemblies\Hauts_VPE_Puppeteer.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Hauts Added Traits\1.4\Mods\VPE_Puppeteer\Source\Hauts_VPE_Puppeteer\obj\Debug\Hauts_VPE_Puppeteer.csproj.AssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Hauts Added Traits\1.4\Mods\VPE_Puppeteer\Source\Hauts_VPE_Puppeteer\obj\Debug\Hauts_VPE_Puppeteer.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Hauts Added Traits\1.4\Mods\VPE_Puppeteer\Source\Hauts_VPE_Puppeteer\obj\Debug\Hauts_VPE_Puppeteer.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Hauts Added Traits\1.5\Mods\VPE_Puppeteer\Assemblies\Hauts_VPE_Puppeteer.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Hauts Added Traits\1.5\Mods\VPE_Puppeteer\Source\Hauts_VPE_Puppeteer\obj\Debug\Hauts_VPE_Puppeteer.csproj.AssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Hauts Added Traits\1.5\Mods\VPE_Puppeteer\Source\Hauts_VPE_Puppeteer\obj\Debug\Hauts_VPE_Puppeteer.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Hauts Added Traits\1.5\Mods\VPE_Puppeteer\Source\Hauts_VPE_Puppeteer\obj\Debug\Hauts_VPE_Puppeteer.dll
