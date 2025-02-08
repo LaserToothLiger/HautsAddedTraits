@@ -1,0 +1,27 @@
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Hauts Traits\Assemblies\HautsTraits.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Hauts Traits\Source\HautsTraits\obj\Debug\HautsTraits.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Hauts Traits\Source\HautsTraits\obj\Debug\HautsTraits.csproj.CopyComplete
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Hauts Traits\Source\HautsTraits\obj\Debug\HautsTraits.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Hauts Traits\Source\HautsTraits\obj\Debug\HautsTraits.csproj.AssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Hauts Variety Traits\Hauts Variety Traits\Assemblies\HautsTraits.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Hauts Variety Traits\Hauts Variety Traits\Source\HautsTraits\obj\Debug\HautsTraits.csproj.AssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Hauts Variety Traits\Hauts Variety Traits\Source\HautsTraits\obj\Debug\HautsTraits.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Hauts Variety Traits\Hauts Variety Traits\Source\HautsTraits\obj\Debug\HautsTraits.csproj.CopyComplete
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Hauts Variety Traits\Hauts Variety Traits\Source\HautsTraits\obj\Debug\HautsTraits.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Hauts Variety Traits\Assemblies\HautsTraits.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Hauts Variety Traits\Source\HautsTraits\obj\Debug\HautsTraits.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Hauts Variety Traits\Source\HautsTraits\obj\Debug\HautsTraits.csproj.CopyComplete
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Hauts Variety Traits\Source\HautsTraits\obj\Debug\HautsTraits.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Hauts Variety Traits\Source\HautsTraits\obj\Debug\HautsTraits.csproj.AssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Hauts Variety Traits\1.4\Assemblies\HautsTraits.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Hauts Variety Traits\1.4\Source\HautsTraits\obj\Debug\HautsTraits.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Hauts Variety Traits\1.4\Source\HautsTraits\obj\Debug\HautsTraits.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Hauts Variety Traits\1.4\Source\HautsTraits\obj\Debug\HautsTraits.csproj.AssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Hauts Added Traits\1.4\Assemblies\HautsTraits.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Hauts Added Traits\1.4\Source\HautsTraits\obj\Debug\HautsTraits.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Hauts Added Traits\1.4\Source\HautsTraits\obj\Debug\HautsTraits.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Hauts Added Traits\1.4\Source\HautsTraits\obj\Debug\HautsTraits.csproj.AssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Hauts Added Traits\1.5\Assemblies\HautsTraits.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Hauts Added Traits\1.5\Source\HautsTraits\obj\Debug\HautsTraits.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Hauts Added Traits\1.5\Source\HautsTraits\obj\Debug\HautsTraits.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Hauts Added Traits\1.5\Source\HautsTraits\obj\Debug\HautsTraits.csproj.AssemblyReference.cache
